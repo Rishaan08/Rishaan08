@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishaan08&label=Profile%20views&color=0e75b6&style=flat" alt="rishaan08" /> </p>
 
 - 🌱 I’m currently learning **full stack development, machine learning & python libraries.**
-- 
+  
 - 💬 Ask me about **html,css and python**
 
 - 📫 How to reach me **yadav.rishaan08@gmail.com**
