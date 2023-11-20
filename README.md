@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishaan08&label=Profile%20views&color=0e75b6&style=flat" alt="rishaan08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishaan08" alt="rishaan08" /></a> </p>
-
 - 🌱 I’m currently learning **full stack development, machine learning & python libraries.**
 
 - 💬 Ask me about **html,css and python**
