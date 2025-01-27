@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishaan Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Scientist</h3>
 <img align="right" alt="Coding" height="350" src="./developer.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishaan08&label=Profile%20views&color=0e75b6&style=flat" alt="rishaan08" /> </p>
