@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishaan08&label=Profile%20views&color=0e75b6&style=flat" alt="rishaan08" /> </p>
 
-- 🌱 I’m currently learning **full stack development, machine learning & python libraries.**
-  
-- 💬 Ask me about **html,css and python**
+- Skilled in Data Analysis, Machine Learning, and Python libraries, with hands-on experience in building and optimizing machine learning models and working with data-driven insights.
+- Feel free to ask me about Machine Learning algorithms, Python libraries (NumPy, Pandas, Scikit-learn, TensorFlow), Data Analysis techniques.
 
 - 📫 How to reach me **yadav.rishaan08@gmail.com**
 
